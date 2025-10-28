@@ -1,0 +1,187 @@
+1. 
+System
+
+Concept and Definition
+
+Types
+
+Parameters, Variables, and Behavior
+
+2. Management
+Definition and Functions
+Organization Structure
+
+i. Definition
+ii. Goals
+iii. Factors considered in formulating structure
+iv. Types
+v. Advantages and disadvantages
+vi. Applications
+
+Division of Labor, Scalar & Functional Processes
+
+Concept, meaning, and importance
+
+Span of control
+
+Delegation of authority
+
+Centralization and decentralization in industrial management
+
+Organizational Culture and Climate
+
+Meaning
+
+Differences
+
+Factors affecting them
+
+Morale
+
+Factors affecting morale
+
+Relationship between morale and productivity
+
+Job Satisfaction
+
+Factors influencing job satisfaction
+
+Factory Act and Labor Laws
+
+Important provisions
+
+3. Critical Path Method (CPM) and Programme Evaluation Review Technique (PERT)
+3.1 CPM & PERT
+
+Meaning and features
+
+Difference and applications
+
+3.2 Network Diagram
+
+Understanding different terms used in network diagrams
+
+Draw a network diagram for a real-life project (10–15 activities)
+
+Computation of LPO and EPO (minimum three examples)
+
+Determination of critical path on the network
+
+Floats: types and determination
+
+Crashing of network, updating, and applications
+
+4. Materials Management
+Definition, Functions, and Importance
+
+Relationship with other departments
+
+Purchase
+
+Objectives
+
+Purchasing systems
+
+Purchase procedure
+
+Terms and forms used in the purchase department
+
+Storekeeping
+
+Functions
+
+Classification of stores: centralized and decentralized
+
+Advantages, disadvantages, and applications in practice
+
+Functions of store
+
+Types of records maintained
+
+Types and applications of storage equipment
+
+Need and general methods for codification of stores
+
+Inventory Control
+
+i. Definition
+ii. Objectives
+iii. Derivation and numerical examples for Economic Order Quantity (EOQ)
+iv. ABC Analysis and other modern methods
+v. Various inventory models:
+
+Wilson’s inventory model
+
+Replenishment model
+
+Two-bin model (only sketch and understanding; no derivation)
+
+Material Requirement Planning (MRP)
+
+Concept
+
+Applications
+
+Brief details about software packages available in the market
+
+5. Production Planning and Control (PPC)
+Types and Examples of Production
+PPC
+
+i. Need and importance
+ii. Functions
+iii. Forms used and their importance
+iv. General approach for each type of production
+
+Scheduling
+
+Meaning and need for productivity and utilization
+
+Gantt Chart: format and preparation method
+
+Critical Ratio Scheduling Method: meaning and numerical examples
+
+Scheduling using Gantt Chart:
+
+For at least 5–7 components having 5–6 machining operations each
+
+Include processes, setting and operation time, resources, quantity, and other necessary data
+
+Minimum two examples
+
+Bottlenecking
+
+Meaning, effects, and ways to reduce
+
+6. Value Analysis (VA) and Cost Control
+6.1 Value Analysis (VA)
+
+Definition and terms used
+
+Process and importance
+
+VA flow diagram
+
+DARSIRI method of VA
+
+Case studies (at least two)
+
+Waste
+
+Types, sources, and ways to reduce
+
+Cost Control
+
+Methods and important guidelines
+
+7. Recent Trends in Industrial Management
+
+ERP (Enterprise Resource Planning): concept, features, and applications
+
+MS Project: important features
+
+Logistics: concept, need, and benefits
+
+Just in Time (JIT): concept and benefits
+
+Supply Chain Management: concept and benefits
